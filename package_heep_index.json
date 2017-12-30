@@ -1,0 +1,35 @@
+{
+  "packages": [
+    {
+      "maintainer": "Heep",
+      "help": {
+        "online": "https://forums.heep.io"
+      },
+      "websiteURL": "https://heep.io",
+      "platforms": [
+        {
+          "category": "Heep",
+          "help": {
+            "online": "https://forums.heep.io"
+          },
+          "url": "https://adafruit.github.io/arduino-board-index/boards/adafruit-avr-1.4.9.tar.bz2",
+          "checksum": "SHA-256:2fbc90df3cc0b95816ac39da262ddb6eac5c46e47374768bd7de7c99fac1f3dd",
+          "name": "Heep PoE Boards",
+          "version": "1.0",
+          "architecture": "avr",
+          "archiveFileName": "adafruit-avr-1.4.9.tar.bz2",
+          "size": "640425",
+          "toolsDependencies": [],
+          "boards": [
+            {
+              "name": "Heep PoE 32u4"
+            }
+          ]
+        },
+      ],
+      "tools": [],
+      "email": "james@heep.io",
+      "name": "Heep"
+    }
+  ]
+}
